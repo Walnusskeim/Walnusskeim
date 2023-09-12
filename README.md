@@ -1,4 +1,4 @@
-### Hi there 👋
+## DO *NOT* LEARN HOW TO CODE _*AT ALL*_ YOU _*WILL*_ STEAL MY FUTURE MONEY 
 
 <!--
 **Walnusskeim/Walnusskeim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
