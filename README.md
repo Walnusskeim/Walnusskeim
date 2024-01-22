@@ -1,5 +1,14 @@
 ## DO *NOT* LEARN HOW TO CODE _*AT ALL*_!!! YOU _*WILL*_ STEAL MY FUTURE MONEY!!!
 
+```text
+    ___   _   _    ___    _  __                      ___   
+   | __| | | | |  / __|  | |/ /     o O O    o O O  / __|  
+   | _|  | |_| | | (__   | ' <     o        o      | (__   
+  _|_|_   \___/   \___|  |_|\_\   TS__[O]  TS__[O]  \___|  
+_| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""| 
+"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'./o--000'"`-0-0-' 
+```
+
 <!--
 **Walnusskeim/Walnusskeim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
