@@ -1,4 +1,4 @@
-## DO *NOT* LEARN HOW TO CODE _*AT ALL*_!!! YOU _*WILL*_ STEAL MY FUTURE MONEY!!!
+## This users coding skill downfall has to be studied
 
 ```text
     ___   _   _    ___    _  __                      ___   
