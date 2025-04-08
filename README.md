@@ -11,7 +11,7 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 
 
 <details>
-    <summary>Pictures i fw heavy ⤵</summary>
+    <summary><h1>Pictures i fw heavy ⤵</h1></summary>
 <div align="center">
 
   <img src="./pics_i_fw_heavy/postecoglou.jpg" width="50%" />
