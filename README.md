@@ -11,7 +11,8 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 
 
 <details>
-  <summary>Pictures i fw heavy ⤵</summary>
+    <summary>Pictures i fw heavy ⤵</summary>
+<div align="center">
 
   <img src="./pics_i_fw_heavy/postecoglou.jpg" width="50%" />
 
@@ -40,6 +41,7 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
   <img src="./pics_i_fw_heavy/goat.jpg" width="50%" />
 
   <img src="./pics_i_fw_heavy/checkout.jpg" width="50%" />
+</div>
 </details>
 
 
