@@ -9,6 +9,40 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'./o--000'"`-0-0-' 
 ```
 
+
+<details>
+  <summary>Pictures i fw heavy ⤵</summary>
+
+  <img src="./pics_i_fw_heavy/postecoglou.jpg" width="50%" />
+
+  <img src="./pics_i_fw_heavy/That'sWhy.jpg" width="50%" />
+
+  <img src="./pics_i_fw_heavy/tcp_udp.png" width="50%" />
+
+  <img src="./pics_i_fw_heavy/real.jpg" width="50%" />
+
+  <img src="./pics_i_fw_heavy/glory.jpg" width="50%" />
+
+  <img src="./pics_i_fw_heavy/normal.png" width="50%" />
+
+  <img src="./pics_i_fw_heavy/hellnaw.jpg" width="50%" />
+
+  <img src="./pics_i_fw_heavy/dunk.jpg" width="50%" />
+
+  <img src="./pics_i_fw_heavy/british.png" width="50%" />
+
+  <img src="./pics_i_fw_heavy/jammed.jpg" width="50%" />
+
+  <img src="./pics_i_fw_heavy/ich_lerne.png" width="50%" />
+
+  <img src="./pics_i_fw_heavy/singing_robots.png" width="50%" />
+
+  <img src="./pics_i_fw_heavy/goat.jpg" width="50%" />
+
+  <img src="./pics_i_fw_heavy/checkout.jpg" width="50%" />
+</details>
+
+
 <!--
 **Walnusskeim/Walnusskeim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
