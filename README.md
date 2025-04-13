@@ -45,10 +45,35 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 </details>
 
 <details>
-    <summary><h1>Placeholder</h1></summary>
+    <summary><h1>MY ANGEL MAFUYU 💜 (she's so me)</h1></summary>
 <div align="center">
-Real
+<img src="./my_angel_mafuyu/Happy_Birthday!!_2023_(Mafuyu).png" width="50%">
 
+<img src="./my_angel_mafuyu/Break_Into_a_Smile.png" width="50%">
+
+<img src="./my_angel_mafuyu/shake.jpg" width="50%">
+
+<img src="./my_angel_mafuyu/Bubbles_Of_Solace.png" width="50%">
+
+<img src="./my_angel_mafuyu/Distant_Warmth.png" width="50%">
+
+<img src="./my_angel_mafuyu/Captive_Masquerade_T.png" width="50%">
+
+<img src="./my_angel_mafuyu/Elpis_At_The_Depths_Of_Despair_T.png" width="50%">
+
+<img src="./my_angel_mafuyu/Happy_Birthday!!_2024_(Mafuyu).png" width="50%">
+
+<img src="./my_angel_mafuyu/The_Taste_Of_Authentic_Ikayaki_T.png" width="50%">
+
+<img src="./my_angel_mafuyu/Walls_Closing_In.png" width="50%">
+
+<img src="./my_angel_mafuyu/Mafuyu.jpg" width="50%">
+
+<img src="./my_angel_mafuyu/misinfo.jpg" width="50%">
+
+<img src="./my_angel_mafuyu/reaction.jpg" width="50%">
+
+<img src="./my_angel_mafuyu/holyshit.jpg" width="50%">
 </div>
 </details>
 
