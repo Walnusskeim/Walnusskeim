@@ -45,7 +45,7 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 </details>
 
 <details>
-    <summary><h1>Placeholder/h1></summary>
+    <summary><h1>Placeholder</h1></summary>
 <div align="center">
 Real
 
