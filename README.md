@@ -45,7 +45,7 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 </details>
 
 <details>
-    <summary><h1>MY ANGEL MAFUYU 💜 (she's so me)</h1></summary>
+    <summary><h1>MY ANGEL MAFUYU 💜</h1></summary>
 <div align="center">
 <img src="./my_angel_mafuyu/Happy_Birthday!!_2023_(Mafuyu).png" width="75%">
 
