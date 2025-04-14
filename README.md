@@ -1,4 +1,5 @@
 ## This users coding skill downfall has to be studied
+Grinding Assembly because that will be my main language (I hate my life (real))
 
 ```text
     ___   _   _    ___    _  __                      ___   
