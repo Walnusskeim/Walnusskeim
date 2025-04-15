@@ -49,12 +49,17 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
     <summary><h1>MY ANGEL MAFUYU 💜</h1></summary>
 <div align="center">
 
-    If Mafuyu has a million fans, I am one of them
-    If Mafuyu has 10 fans, I am one of them
-    If Mafuyu has 1 fan, that one is me
-    If Mafuyu has no fans, I am no longer alive
-    If the world is against Mafuyu, I am against the entire world
-    Till my last breath I'll support Mafuyu!
+If Mafuyu has a million fans, I am one of them
+
+If Mafuyu has 10 fans, I am one of them
+
+If Mafuyu has 1 fan, that one is me
+
+If Mafuyu has no fans, I am no longer alive
+
+If the world is against Mafuyu, I am against the entire world
+
+Till my last breath I'll support Mafuyu!
     
     
 <img src="./my_angel_mafuyu/Happy_Birthday!!_2023_(Mafuyu).png" width="75%">
