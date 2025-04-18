@@ -70,6 +70,8 @@ Till my last breath I'll support Mafuyu!
 
 <img src="./my_angel_mafuyu/shake.jpg" width="55%">
 
+<img src="./my_angel_mafuyu/pathetic.jpg" width="75%">
+
 <img src="./my_angel_mafuyu/Bubbles_Of_Solace.png" width="75%">
 
 <img src="./my_angel_mafuyu/Distant_Warmth.png" width="75%">
