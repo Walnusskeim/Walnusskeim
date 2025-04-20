@@ -76,6 +76,8 @@ Till my last breath I'll support Mafuyu!
 
 <img src="./my_angel_mafuyu/Distant_Warmth.png" width="75%">
 
+<img src="./my_angel_mafuyu/ballin.jpg" width="75%">
+
 <img src="./my_angel_mafuyu/Captive_Masquerade_T.png" width="75%">
 
 <img src="./my_angel_mafuyu/Elpis_At_The_Depths_Of_Despair_T.png" width="75%">
@@ -83,6 +85,8 @@ Till my last breath I'll support Mafuyu!
 <img src="./my_angel_mafuyu/Happy_Birthday!!_2024_(Mafuyu).png" width="75%">
 
 <img src="./my_angel_mafuyu/The_Taste_Of_Authentic_Ikayaki_T.png" width="75%">
+
+<img src="./my_angel_mafuyu/V.jpg" width="75%">
 
 <img src="./my_angel_mafuyu/Walls_Closing_In.png" width="75%">
 
