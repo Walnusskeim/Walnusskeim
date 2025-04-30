@@ -62,9 +62,12 @@ If Mafuyu has no fans, I am no longer alive
 If the world is against Mafuyu, I am against the entire world
 
 Till my last breath I'll support Mafuyu!
-    
+
+<img src="./my_angel_mafuyu/A_Moment_Full_Of_Warmth_T.png" width="75%">
     
 <img src="./my_angel_mafuyu/Happy_Birthday!!_2023_(Mafuyu).png" width="75%">
+
+<img src="./my_angel_mafuyu/IMG_4062.png" width="50%">
 
 <img src="./my_angel_mafuyu/Break_Into_a_Smile.png" width="75%">
 
@@ -80,6 +83,8 @@ Till my last breath I'll support Mafuyu!
 
 <img src="./my_angel_mafuyu/Captive_Masquerade_T.png" width="75%">
 
+<img src="./my_angel_mafuyu/Unexpected_Pair_of_Tickets_T.png" width="75%">
+
 <img src="./my_angel_mafuyu/Elpis_At_The_Depths_Of_Despair_T.png" width="75%">
 
 <img src="./my_angel_mafuyu/Happy_Birthday!!_2024_(Mafuyu).png" width="75%">
@@ -91,6 +96,8 @@ Till my last breath I'll support Mafuyu!
 <img src="./my_angel_mafuyu/Walls_Closing_In.png" width="75%">
 
 <img src="./my_angel_mafuyu/Mafuyu.jpg" width="50%">
+
+<img src="./my_angel_mafuyu/Happy_Birthday!!_2025_(Mafuyu).png" width="75%">
 
 <img src="./my_angel_mafuyu/misinfo.jpg" width="50%">
 
