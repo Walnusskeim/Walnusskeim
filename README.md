@@ -65,6 +65,10 @@ If the world is against Mafuyu, I am against the entire world
 
 Till my last breath I'll support Mafuyu!
 
+
+
+<img src="./my_angel_mafuyu/hire.png" width="75%">
+
 <img src="./my_angel_mafuyu/A_Moment_Full_Of_Warmth_T.png" width="75%">
     
 <img src="./my_angel_mafuyu/Happy_Birthday!!_2023_(Mafuyu).png" width="75%">
