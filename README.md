@@ -67,6 +67,8 @@ Till my last breath I'll support Mafuyu!
 
 
 
+<img src="./my_angel_mafuyu/same_time.png" width="50%">
+
 <img src="./my_angel_mafuyu/hire.png" width="75%">
 
 <img src="./my_angel_mafuyu/A_Moment_Full_Of_Warmth_T.png" width="75%">
