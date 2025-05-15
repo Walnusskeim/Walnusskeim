@@ -116,7 +116,7 @@ Till my last breath I'll support Mafuyu!
 </details>
 
 <details>
-    <summary><h1>SONG OF THE WEEK</h1></summary>
+    <summary><h1>SONG OF THE WEEK 🎵</h1></summary>
 <div align="center">
 
 ## This is where I show songs, that were the main theme of the week.
