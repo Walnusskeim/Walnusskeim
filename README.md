@@ -115,6 +115,30 @@ Till my last breath I'll support Mafuyu!
 </div>
 </details>
 
+<details>
+    <summary><h1>SONG OF THE WEEK</h1></summary>
+<div align="center">
+
+## This is where I show songs, that were the main theme of the week.
+
+<details>
+    <summary><h3>KW 20 (12.05.2025 - 18.05.2025)</h3></summary>
+<div align="center">
+    
+### Adventure Of A Lifetime - Coldplay (2015)
+
+https://github.com/user-attachments/assets/835a7dbf-284b-4d02-925e-b462fd26a879
+
+</div>
+</details>
+
+
+
+
+
+
+</div>
+</details>
 
 <!--
 **Walnusskeim/Walnusskeim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
