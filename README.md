@@ -7,9 +7,6 @@
 
 <h6>Grinding Assembly because it will be my main language (I hate my life (real))</h6>
 
-</div>
-
-
 ```text
     ___   _   _    ___    _  __                      ___   
    | __| | | | |  / __|  | |/ /     o O O    o O O  / __|  
@@ -18,6 +15,8 @@
 _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""| 
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'./o--000'"`-0-0-' 
 ```
+</div>
+
 
 
 <details>
