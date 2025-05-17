@@ -2,7 +2,7 @@
 
 ## This users coding skill downfall has to be studied
 
-### Searching for an actually good license? 👉 lbdt-license.wiki 👈
+### Searching for an actually *good* license? 👉 lbdt-license.wiki 👈
 
 <h6>Grinding Assembly because it will be my main language (I hate my life (real))</h6>
 
