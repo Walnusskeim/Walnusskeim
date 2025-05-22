@@ -43,8 +43,6 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 </tr>
 </table>
 
-</div>
-
 
 <details>
     <summary><h1>Pictures i fw heavy ⤵</h1></summary>
