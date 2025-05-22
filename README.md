@@ -17,6 +17,30 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 ```
 </div>
 
+<div align="center">
+    
+## More serious stuff:
+
+<h6>We need to act professional as well</h6>
+
+<p align="center">
+  <!--- stats (start) -->
+<table align="center" width="100%>
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Walnusskeim&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
+  <br></br>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Walnusskeim&theme=material-palenight&hide_border=true" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walnusskeim&theme=material-palenight&show_icons=true&hide_border=true&layout=compact"/>
+  
+  </td>
+</tr>
+</table>
 
 
 <details>
