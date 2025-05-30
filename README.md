@@ -148,35 +148,6 @@ Till my last breath I'll support Mafuyu!
 </div>
 </details>
 
-<details>
-    <summary><h1>SONG OF THE WEEK 🎵</h1></summary>
-<div align="center">
-
-## This is where I show songs, that were the main theme of the week.
-
-<details>
-    <summary><h3>KW 20 (12.05.2025 - 18.05.2025)</h3></summary>
-<div align="center">
-    
-### Adventure Of A Lifetime - Coldplay (2015)
-
-https://github.com/user-attachments/assets/835a7dbf-284b-4d02-925e-b462fd26a879
-
-</div>
-</details>
-
-<details>
-    <summary><h3>KW 21 (19.05.2025 - 25.05.2025)</h3></summary>
-<div align="center">
-    
-### Rah Tah Tah - Tyler, The Creator (2024)
-
-https://github.com/user-attachments/assets/45eb6d2c-f578-4e89-ab3f-fc5e80024ab3
-
-</div>
-</details>
-
-
 
 
 </div>
