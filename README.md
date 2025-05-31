@@ -126,6 +126,10 @@ Till my last breath I'll support Mafuyu!
 
 <img src="./my_angel_mafuyu/Unexpected_Pair_of_Tickets_T.png" width="75%">
 
+<img src="./my_angel_mafuyu/stare.jpg" width="50%">
+
+<img src="./my_angel_mafuyu/takling.jpg" width="50%">
+
 <img src="./my_angel_mafuyu/Elpis_At_The_Depths_Of_Despair_T.png" width="75%">
 
 <img src="./my_angel_mafuyu/Happy_Birthday!!_2024_(Mafuyu).png" width="75%">
