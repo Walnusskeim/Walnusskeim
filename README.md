@@ -48,6 +48,8 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
     <summary><h1>Pictures i fw heavy ⤵</h1></summary>
 <div align="center">
 
+  <img src="./pics_i_fw_heavy/sneaky.jpg" width="50%" />
+
   <img src="./pics_i_fw_heavy/stromversorgung.jpg" width="50%" />
 
   <img src="./pics_i_fw_heavy/angel.png" width="75%" />
