@@ -100,6 +100,8 @@ If the world is against Mafuyu, I am against the entire world
 
 Till my last breath I'll support Mafuyu!
 
+Loving Mafuyu isn't a hobby, it's a full-time job with no benefits, no vacation days, and I have zero intentions of quitting. It’s a lifestyle, a daily ritual, a sacred calling. I don’t just wake up and think of Mafuyu, I rise like a canary summoned by Mafuyu herself. There hasn’t been a single day where this girl hasn’t invaded my thoughts like she owns the place. Honestly, at this point, I should start charging her rent because of how many time she crosses my thoughts each day. She’s the reason I get up in the morning because I need to check if there’s new fanart or story crumbs to obsess over. Mafuyu is my motivation, my distraction, and honestly, my therapist at this point.
+
 
 
 <img src="./my_angel_mafuyu/same_time.png" width="50%">
