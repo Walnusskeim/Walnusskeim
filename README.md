@@ -1,6 +1,6 @@
 <div align="center">
 
-## This users coding skill downfall has to be studied
+## Fuck everything blud
 
 ### Searching for an actually *good* license? 
 ### 👉 lbdt-license.wiki 👈
