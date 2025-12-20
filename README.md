@@ -1,6 +1,6 @@
 <div align="center">
 
-## Fuck everything blud
+## I hate programming
 
 ### Searching for an actually *good* license? 
 ### 👉 lbdt-license.wiki 👈
