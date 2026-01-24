@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./GithubBanner.jpg" width="100%" />
+
 ## I hate programming
 
 ### Searching for an actually *good* license? 
