@@ -21,9 +21,11 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 
 <div align="center">
 
-## More serious stuff:
+##  
 
-<h6>We need to act professional as well</h6>
+<br/>
+
+<img src="./Statistics.jpg" width="100%" />
 
 <p align="center">
   <!--- stats (start) -->
