@@ -19,6 +19,7 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 
 </div>
 
+<br/>
 
 <div align="center">
 
@@ -46,6 +47,13 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 </tr>
 </table>
 
+<br/>
+
+## 
+
+<br/>
+
+<img src="./FunStuff.jpg" width="100%" />
 
 <details>
     <summary><h1>Pictures i fw heavy ⤵</h1></summary>
