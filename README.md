@@ -19,6 +19,7 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 
 </div>
 
+
 <div align="center">
 
 ##  
@@ -32,16 +33,15 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
 <table align="center" width="100%>
 <tr border="none">
 <td width="50%" align="center">
-  
+
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Walnusskeim&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
-  <br></br>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Walnusskeim&theme=material-palenight&hide_border=true" /> 
+
 </td>
 
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walnusskeim&theme=material-palenight&show_icons=true&hide_border=true&layout=compact"/>
-  
+
   </td>
 </tr>
 </table>
