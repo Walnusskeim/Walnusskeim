@@ -4,8 +4,10 @@
 
 ## I hate programming
 
-### Searching for an actually *good* license? 
-### 👉 lbdt-license.wiki 👈
+### Searching for an actually *good* license?
+<!--- ### 👉 lbdt-license.wiki 👈 -->
+### 👉 walnusskeim.github.io/LBDT-Wiki/ 👈
+
 
 
 ```text
