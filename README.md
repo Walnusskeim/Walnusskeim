@@ -61,11 +61,21 @@ _| """ |_|"""""|_|"""""|_|"""""| {======| {======|_|"""""|
     <summary><h1>Pictures i fw heavy ⤵</h1></summary>
 <div align="center">
 
+  <img src="./pics_i_fw_heavy/qing1.png" width="100%" />
+
+  <img src="./pics_i_fw_heavy/qing2.png" width="100%" />
+
+  <img src="./pics_i_fw_heavy/board.jpg" width="50%" />
+
+  <img src="./pics_i_fw_heavy/win.png" width="50%" />
+
   <img src="./pics_i_fw_heavy/deutsch.jpg" width="50%" />
   
   <img src="./pics_i_fw_heavy/attention.png" width="50%" />
   
   <img src="./pics_i_fw_heavy/dreams.png" width="50%" />
+
+  <img src="./pics_i_fw_heavy/what_if.jpg" width="50%" />
   
   <img src="./pics_i_fw_heavy/topArtists.png" width="50%" />
 
@@ -123,7 +133,13 @@ Till my last breath I'll support Mafuyu!
 
 Loving Mafuyu isn't a hobby, it's a full-time job with no benefits, no vacation days, and I have zero intentions of quitting. It’s a lifestyle, a daily ritual, a sacred calling. I don’t just wake up and think of Mafuyu, I rise like a canary summoned by Mafuyu herself. There hasn’t been a single day where this girl hasn’t invaded my thoughts like she owns the place. Honestly, at this point, I should start charging her rent because of how many time she crosses my thoughts each day. She’s the reason I get up in the morning because I need to check if there’s new fanart or story crumbs to obsess over. Mafuyu is my motivation, my distraction, and honestly, my therapist at this point.
 
+<img src="./my_angel_mafuyu/ever.png" width="50%">
 
+<img src="./my_angel_mafuyu/feels_aura.png" width="50%">
+
+<img src="./my_angel_mafuyu/profile.png" width="50%">
+
+<img src="./my_angel_mafuyu/agony.png" width="50%">
 
 <img src="./my_angel_mafuyu/same_time.png" width="50%">
 
